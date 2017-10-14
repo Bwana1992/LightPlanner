@@ -1,0 +1,5 @@
+LightPlanner/Properties/
+LightPlanner/obj/
+packages/
+LightPlanner/OpenTK.dll.config
+LightPlanner/packages.config
